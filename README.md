@@ -18,7 +18,7 @@
 * map-jquery.js and map-mootools.js: два примера работы с vector.js на двух популярных библиотеках (JQuery и MooTools)
 * исходный набор полигонов для карты мира и России.
 
-Вы можете посмотреть пример использования на странице http://smarttelemax.github.com/ru-svg-map/
+Вы можете посмотреть пример использования на странице https://smarttelemax.github.io/ru-svg-map/
 
 
 SVG maps of Russia and the world
@@ -42,5 +42,5 @@ The package contains:
 * map-jquery.js and map-mootools.js: two example implementations of the map based to vector.js working with two popular frameworks. They can be hacked and customized.
 * path packs for maps of Russia and the world. Paths are verified by %institutename% as corresponding official recognized by Russian Federation state borders
 
-You can see examples at http://smarttelemax.github.com/ru-svg-map/
+You can see examples at https://smarttelemax.github.io/ru-svg-map/
 
